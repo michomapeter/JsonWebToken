@@ -1,0 +1,13 @@
+{
+  "name": "jsonwebtoken",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    
+    "test": "node index",
+    "start":"nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
